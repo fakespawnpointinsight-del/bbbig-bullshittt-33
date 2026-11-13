@@ -1,4 +1,6 @@
-# Music Stuff (formerly FLP → FLM Converter)
+# Music Stuff (formerly FLP → FLM Converter) this tumie forever
+
+YEAH HEY ITS ME ITS VERITY JUST A REPOST OR SMTH SITE IT HAS OR IDK BLUBLUBLUB I DONT TAKE COPYRIGHT AND IDC IF TS IS VIBECODED JUMP ON BRENINHO NOT ME :))))))
 
 Literally an FLP to FLM file converter — a feature many people have been requesting. Now it's grown into a small toolset: a **Converter** for existing `.flp`/`.flm` projects, a **Generator** for building a small project from scratch, plus Showcase and Community modes.
 
